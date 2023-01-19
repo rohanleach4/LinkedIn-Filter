@@ -6,9 +6,9 @@ But how does saying this help people who have only heard of AI and need help fig
 
 It doesn't.
 
-You don't need to code to use an AI like ChatGTP, but I believe a user will get more out of it if they have a basic command of code.
+You don't need to code to use an AI like ChatGPT, but I believe a user will get more out of it if they have a basic command of code.
 
-Can an environment be created where a user can use ChatGTP to assist them at every stage of creating an app they can use daily and customise to their needs?
+Can an environment be created where a user can use ChatGPT to assist them at every stage of creating an app they can use daily and customise to their needs?
 
 As a solution have created a trivial Chrome extension that is the greatest thing ever to happen to LinkedIn ;)
 
