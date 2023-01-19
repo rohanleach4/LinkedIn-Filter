@@ -1,4 +1,4 @@
-# rohanleach4-LinkedIn-Filter-
+# LinkedIn Filter
 A Chrome Extension that filters your LinkedIn feed. It exists to inspire users to use ChatGPT to code
 
 It's easy for people like me to say _AI_ applications are the future and that _you_ will struggle if you are not a part of this new movement.
