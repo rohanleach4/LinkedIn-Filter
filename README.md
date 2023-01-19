@@ -22,3 +22,5 @@ This simple app works on many levels:
 * If you need to learn what a Chrome extension is or how to install an app, you can ask ChatGPT.
 * If you want to modify the skeleton app and add a new feature, you can ask ChatGPT.
 * If you want to pad out the Chrome extension and make it a full-blown app, you can ask ChatGPT.
+
+Link to ChatGPT: https://chat.openai.com/chat
