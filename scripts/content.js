@@ -14,12 +14,12 @@ window.onscroll = function (e) {
     const supplementaryInfo = document.querySelectorAll(".update-components-actor__supplementary-actor-info");
     const connections = ['2nd', '3rd', '3rd+'];
 
-    for (const i = 0; i < supplementaryInfo.length; i++) {
+    for (let i = 0; i < supplementaryInfo.length; i++) {
         let element = supplementaryInfo[i];
         if (element.innerText) {
             let textx = element.innerText;
             let divContainerParentParentParentParent = element.parentNode.parentNode.parentNode.parentNode.parentNode;
-            for (const j = 0; j < connections.length; j++) {
+            for (let j = 0; j < connections.length; j++) {
                 if (textx.includes(connections[j])) {
                     divContainerParentParentParentParent.style.display = "none";
                 }
